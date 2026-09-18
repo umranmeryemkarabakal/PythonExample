@@ -7,17 +7,17 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Eleven solved Python exercises: divisors, averages, word search with regex, factorial, finding a red region in an image, plotting, list/set operations, word counting in a text file, merge sort, a variadic calculator and a small student-management class.
 
 **Quick start:** `python 09.py`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Çözümlü on bir Python alıştırması.
 
-## 📚 İçerik
+## İçerik
 
 - `01`: bir sayının tam bölenleri
 - `02`: ortalama hesaplama
@@ -31,7 +31,7 @@ Eleven solved Python exercises: divisors, averages, word search with regex, fact
 - `10`: `*args` ile hesap makinesi
 - `11`: öğrenci otomasyon sistemi (OOP)
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -39,7 +39,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 PythonExample/
